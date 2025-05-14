@@ -10,6 +10,8 @@ Workshop: [WACE](https://bytecodealliance.org/wace2025) / [MANAGE-IOT](https://m
 
 Paper: tbd
 
+[Slides](Exploring%20Composable%20Network%20Stacks%20from%20Isolated%20Components%20with%20WebAssembly%20and%20QUIC.pdf)
+
 # Material
 
 [quiche-wasm](https://github.com/birneee/quiche-wasm) extended quiche source code
